@@ -11,7 +11,6 @@ layout: homepage
 
 <!---暂未更新
 ## Research Interests
-
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 --->
@@ -19,7 +18,6 @@ layout: homepage
 
 <!---暂未更新
 ## News
-
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
@@ -29,7 +27,7 @@ layout: homepage
 
 ## Publications
 
-- **Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019** <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3V4Cc1PqKLWPw9oSL3UfNsK" target="_blank">[cnki.net]</a>
+<h3>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019 <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3V4Cc1PqKLWPw9oSL3UfNsK" target="_blank">[cnki.net]</a></h3>
 
 <!---模板格式很好看 保留下来了
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
@@ -101,8 +99,8 @@ layout: homepage
 
 ## Society Membership
 <ul>
-<li>Chinese Computer Federation (CCF) Professional Membership</li>
-<li>Association of Computing Machinery (ACM) Professional Membership</li>
+<li>**Chinese Computer Federation (CCF)** - Professional Membership</li>
+<li>**Association of Computing Machinery (ACM)** - Professional Membership</li>
 </ul>
 
 ## Services
