@@ -43,28 +43,23 @@ layout: homepage
 
 ## Educational Background
 **Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)**
-<ul>
-<li>**Bachelor of Management (Accounting)** | GPA: 3.4/4.0</li>
-<li>Honors and Awards:</li>
+- **Bachelor of Management (Accounting)** | GPA: 3.4/4.0
+- Honors and Awards:
 <ol><li>12 Finalists - PwC’s Career Plus Challenge (Shanghai Region, 2020.7)</li>
     <li>First Prize - “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)</li>
     <li>Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)</li>
     <li>Excellent Prize - Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)</li>
-</ol></ul>
+</ol>
 
 
 **Michigan State University (MSU) (2018.8-2018.12)**
-<ul>
-<li>**American Semester Program** | GPA: 3.65/4.0</li>
-</ul>
+- **American Semester Program** | GPA: 3.65/4.0
 
 
 **University of the People (UoPeople) (2020.4-present)**
-<ul>
-<li>**Bachelor of Computer Science** | GPA: 3.6/4.0</li>
-<li>UoPeople is an accredited online university.</li>
-<li>Official Website: <a href="www.uopeople.edu"></a></li>
-</ul>
+- **Bachelor of Computer Science** | GPA: 3.6/4.0
+- UoPeople is an accredited online university.<a href="www.uopeople.edu">[<u>Official Website</u>]</a>
+
 
 
 ## Working Experience
