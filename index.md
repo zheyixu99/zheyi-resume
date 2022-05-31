@@ -53,7 +53,8 @@ layout: homepage
 
 <h3>Michigan State University (MSU) (2018.8-2018.12)</h3>
 **American Semester Program** | GPA: 3.65/4.0
-
+-	Courses: Linear Algebra, Macroeconomics, Introduction to Films, Introduction to Digital Media.
+-	Part-time work @ MSU Student Culinary Service.
 
 <h3>University of the People (UoPeople) (2020.4-present)</h3>
 **Bachelor of Computer Science** | GPA: 3.6/4.0
