@@ -98,8 +98,8 @@ layout: homepage
 </ul>
 
 ## Society Membership
-- **Chinese Computer Federation (CCF)** - Professional Membership
-- **Association of Computing Machinery (ACM)** - Professional Membership
+- **Chinese Computer Federation (CCF)** - Professional Membership (2022.4-present)
+- **Association of Computing Machinery (ACM)** - Professional Membership (2022.5-present)
 
 
 ## Services
