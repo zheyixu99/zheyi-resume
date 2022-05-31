@@ -7,7 +7,6 @@ layout: homepage
 - Auditor @ Ernst & Young Shanghai
 - Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)
 - CS Student @ UoPeople
-- Contact Info: ZheyiXu@my.uopeople.edu
 
 
 <!---暂未更新
