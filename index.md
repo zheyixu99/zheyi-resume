@@ -43,9 +43,9 @@ layout: homepage
 --->
 
 ## Educational Background
-<h4>Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)</h4>
+**Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)**
 <ul>
-<li>GPA: 3.4/4.0</li>
+<li>**Bachelor of Management (Accounting)** | GPA: 3.4/4.0</li>
 <li>Honors and Awards:</li>
 <ol><li>12 Finalists - PwC’s Career Plus Challenge (Shanghai Region, 2020.7)</li>
     <li>First Prize - “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)</li>
@@ -54,15 +54,15 @@ layout: homepage
 </ol></ul>
 
 
-<h4>American Semester Program - Michigan State University (MSU) (2018.8-2018.12)</h4>
+**Michigan State University (MSU) (2018.8-2018.12)**
 <ul>
-<li>GPA: 3.65/4.0</li>
+<li>**American Semester Program** | GPA: 3.65/4.0</li>
 </ul>
 
 
-<h4>Bachelor of Computer Science - University of the People (UoPeople) (2020.4-present)</h4>
+**University of the People (UoPeople) (2020.4-present)**
 <ul>
-<li>GPA: 3.6/4.0</li>
+<li>**Bachelor of Computer Science** | GPA: 3.6/4.0</li>
 <li>UoPeople is an accredited online university.</li>
 <li>Official Website: <a href="www.uopeople.edu"></a></li>
 </ul>
