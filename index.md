@@ -133,9 +133,12 @@ layout: homepage
 - Google Analytics for Power Users. 2022. <a href="https://analytics.google.com/analytics/academy/certificate/KCcy03yxTdOVTtVUDxXYQQ" target="_blank">[<u>Google Analytics Academy Certificate</u>]</a>
 
 
-## Skills & Language
-Programming: Matlab, Python, JavaSE, R language; Database: MySQL; Analysis and Chart Software: Tableau.
-Microsoft Office (Microsoft Word, Microsoft Excel, Microsoft PowerPoint)
-Language: Mandarin Chinese (Native Speaker), English (Business Commmunication)
+## Language & Skills
+- Language: Mandarin Chinese (Native Speaker), English (Business Communication)
+- Programming: Matlab, Python, R language.
+- Database: MySQL.
+- Analysis and Chart Software: Tableau.
+- Microsoft Office (Microsoft Word, Microsoft Excel, Microsoft PowerPoint)
+
 
 
