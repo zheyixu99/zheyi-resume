@@ -46,11 +46,11 @@ layout: homepage
 **Bachelor of Management (Accounting)** | GPA: 3.4/4.0
 -	Courses: Financial Accounting, Financial Management, Micro & Macroeconomics, Econometrics, International Finance, Tax Law, Public Finance, Auditing, ERP Simulation Game, Calculus, Linear Algebra, Statistics, Big Data Processing Technology.
 - Honors and Awards:
-<ol><li>12 Finalists - PwC’s Career Plus Challenge (Shanghai Region, 2020.7)</li>
-    <li>First Prize - “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)</li>
-    <li>Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)</li>
-    <li>Excellent Prize - Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)</li>
-</ol>
+  <ol><li>12 Finalists - PwC’s Career Plus Challenge (Shanghai Region, 2020.7)</li>
+      <li>First Prize - “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)</li>
+      <li>Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)</li>
+      <li>Excellent Prize - Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)</li>
+  </ol>
 
 
 <h3>Michigan State University (MSU) (2018.8-2018.12)</h3>
