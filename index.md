@@ -44,6 +44,7 @@ layout: homepage
 ## Educational Background
 <h3>Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)</h3>
 **Bachelor of Management (Accounting)** | GPA: 3.4/4.0
+-	Courses: Financial Accounting, Financial Management, Micro & Macroeconomics, Econometrics, International Finance, Tax Law, Public Finance, Auditing, ERP Simulation Game, Calculus, Linear Algebra, Statistics, Big Data Processing Technology.
 - Honors and Awards:
 <ol><li>12 Finalists - PwC’s Career Plus Challenge (Shanghai Region, 2020.7)</li>
     <li>First Prize - “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)</li>
@@ -59,7 +60,7 @@ layout: homepage
 <h3>University of the People (UoPeople) (2020.4-present)</h3>
 **Bachelor of Computer Science** | GPA: 3.6/4.0
 - UoPeople is an accredited online university.<a href="www.uopeople.edu">[<u>Official Website</u>]</a>
-
+- Courses: Programming Fundamentals (Python), Statistics (R language), Programming I (JavaSE), Computer Systems, Databases, Web Programming, Calculus, Statistics, Operating Systems, Data Structure, Data Mining and Machine Learning.
 
 
 ## Working Experience
