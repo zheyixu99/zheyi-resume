@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-- Auditor @ Ernst & Young Shanghai</li>
-- Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</li>
-- CS Student @ UoPeople</li>
-- Contact Info: ZheyiXu@my.uopeople.edu</li>
+- Auditor @ Ernst & Young Shanghai
+- Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)
+- CS Student @ UoPeople
+- Contact Info: ZheyiXu@my.uopeople.edu
 
 
 <!---暂未更新
@@ -134,7 +134,7 @@ layout: homepage
 - Google IT Automation with Python Professional Certificates. 2022. <a href="https://coursera.org/share/f52a1a2ad573686ae82aa5c22d85b6bb" target="_blank">[<u>Coursera Certificate</u>]</a>
 - IBM Data Science Professional Certificate. 2022. <a href="https://coursera.org/share/d2a3c666e42c53821372f67029d70d88" target="_blank">[<u>Coursera Certificate</u>]</a>
 - Java Programming and Software Engineering Fundamentals Specialization. 2022. <a href="https://coursera.org/share/c3c25a5eb3745779a028b5204d5cd13c" target="_blank">[<u>Coursera Certificate</u>]</a>
-- Business Analytics Specialization. 2019. <a href="https://coursera.org/share/153614bbec63b0d5ad74b6a170abead0" target="_blank">[<u>Coursera Certificate</u>]</a></li>
+- Business Analytics Specialization. 2019. <a href="https://coursera.org/share/153614bbec63b0d5ad74b6a170abead0" target="_blank">[<u>Coursera Certificate</u>]</a>
 - Google Analytics for Beginners. 2022. <a href="https://analytics.google.com/analytics/academy/certificate/h5G1QGTATIWsvOly9ex_KQ" target="_blank">[<u>Google Analytics Academy Certificate</u>]</a>
 - Google Analytics for Power Users. 2022. <a href="https://analytics.google.com/analytics/academy/certificate/KCcy03yxTdOVTtVUDxXYQQ" target="_blank">[<u>Google Analytics Academy Certificate</u>]</a>
 
