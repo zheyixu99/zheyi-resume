@@ -59,9 +59,8 @@ layout: homepage
 
 <h3>University of the People (UoPeople) (2020.4-present)</h3>
 **Bachelor of Computer Science** | GPA: 3.6/4.0
-- UoPeople is an accredited online university.<a href="www.uopeople.edu">[<u>Official Website</u>]</a>
 - Courses: Programming Fundamentals (Python), Statistics (R language), Programming I (JavaSE), Computer Systems, Databases, Web Programming, Calculus, Statistics, Operating Systems, Data Structure, Data Mining and Machine Learning.
-
+- UoPeople is an accredited online university.<a href="www.uopeople.edu">[<u>Official Website</u>]</a>
 
 ## Working Experience
 <h4>Ernst & Young Certified Public Accountants - Auditor (2022.8-present Shanghai, China)</h4>
