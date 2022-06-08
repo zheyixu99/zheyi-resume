@@ -7,6 +7,7 @@ layout: homepage
 - Auditor @ Ernst & Young Shanghai
 - Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)
 - CS Student @ UoPeople
+- Student Ambassador of UoPeople
 
 
 <!---暂未更新
@@ -59,6 +60,7 @@ layout: homepage
 <h3>University of the People (UoPeople) (2020.4-present)</h3>
 **Bachelor of Computer Science** | GPA: 3.6/4.0
 - Courses: Programming Fundamentals (Python), Statistics (R language), Programming I (JavaSE), Computer Systems, Databases, Web Programming, Calculus, Statistics, Operating Systems, Data Structure, Data Mining and Machine Learning.
+- Student Ambassador of UoPeople.
 - UoPeople is an accredited online university. <a href="https://www.uopeople.edu" target="_blank">[<u>Official Website</u>]</a>
 
 ## Working Experience
