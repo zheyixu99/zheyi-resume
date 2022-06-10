@@ -83,6 +83,11 @@ layout: homepage
 <li>Help Identify Similar Phrases in U.S. Patents.</li>
 </ul>
 
+<h3>Kaggle Competition Candidate- JPX Tokyo Stock Exchange Prediction (2022.5-present)</h3>
+<ul>
+<li>Predict the future returns of the stocks.</li>
+</ul>
+
 <h3>Global Competency Online Training Program - UNITAR New York (2021.8, Online)</h3>
 <ul>
 <li>Key Principles of the UN SDGs (17 goals)</li>
