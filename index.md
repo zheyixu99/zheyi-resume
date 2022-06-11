@@ -7,7 +7,7 @@ layout: homepage
 - Auditor @ Ernst & Young Shanghai
 - Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)
 - CS Student @ UoPeople
-- Student Ambassador of UoPeople
+- Student Ambassador of UoPeople (Featured on UoPeople Social Media in July, 2022)
 
 
 <!---暂未更新
