@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-- Auditor @ Ernst & Young Shanghai
-- Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)
-- CS Student @ UoPeople
-- Student Ambassador of UoPeople (Featured on UoPeople Social Media in July, 2022)
+<h4>- Auditor @ Ernst & Young Shanghai</h4>
+<h4>- Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</h4>
+<h4>- CS Student @ UoPeople</h4>
+<h4>- Student Ambassador of UoPeople (Featured on UoPeople Social Media in July, 2022)</h4>
 
 
 <!---暂未更新
@@ -53,7 +53,7 @@ layout: homepage
 
 
 <h3>Michigan State University (MSU) (2018.8-2018.12)</h3>
-**American Semester Program** | GPA: 3.65/4.0
+**American Semester Program** | GPA: 3.6/4.0
 -	Courses: Linear Algebra, Macroeconomics, Introduction to Films, Introduction to Digital Media.
 -	Part-time work @ MSU Student Culinary Service.
 
