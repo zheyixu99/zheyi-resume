@@ -8,7 +8,7 @@ layout: homepage
 <li><b>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></li>
 <li><b>CS Student @ UoPeople</b></li>
 <li><b>Student Ambassador of UoPeople (Featured on UoPeople Social Media in July, 2022)</b></li>
- 
+</ul>
 
 <!---暂未更新
 ## Research Interests
