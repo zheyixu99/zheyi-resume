@@ -3,12 +3,12 @@ layout: homepage
 ---
 
 ## About Me
-
-<h4>- Auditor @ Ernst & Young Shanghai</h4>
-<h4>- Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</h4>
-<h4>- CS Student @ UoPeople</h4>
-<h4>- Student Ambassador of UoPeople (Featured on UoPeople Social Media in July, 2022)</h4>
-
+<ul>
+<li><b>Auditor @ Ernst & Young Shanghai</b></li>
+<li><b>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></li>
+<li><b>CS Student @ UoPeople</b></li>
+<li><b>Student Ambassador of UoPeople (Featured on UoPeople Social Media in July, 2022)</b></li>
+ 
 
 <!---暂未更新
 ## Research Interests
