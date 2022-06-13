@@ -67,7 +67,7 @@ layout: homepage
 <h3>Ernst & Young Certified Public Accountants - Auditor (2022.8-present Shanghai, China)</h3>
 <ul>
 <li>IPO Auditing & Annual Auditing.</li>
-<li>Graduate iLab Team Member. Graduate iLab Team is responsible for driving the progress of Digital Audit.</li>
+<li>EY iLab Team Member. EY iLab Team is responsible for driving the progress of Digital Audit.</li>
 </ul>
 
 
