@@ -144,6 +144,6 @@ layout: homepage
 - **Database**: MySQL.
 - **Visualization**: Tableau.
 - **Microsoft Office**: Microsoft Word, Microsoft Excel, Microsoft PowerPoint
-
+- **Adobe**: Lightroom, Premium
 
 
