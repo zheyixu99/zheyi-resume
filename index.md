@@ -68,10 +68,9 @@ layout: homepage
 <ul>
 <li>IPO Auditing & Annual Auditing.</li>
 <li>EY iLab Team Member. EY iLab Team is responsible for driving the progress of Digital Audit. Here I learn the following skills:</li>
-  <ol>
-  <li>Use Python to do the Financial Indicator and Data Analysis.</li>
-  <li>Use <b>EY Helix Analyzer</b> to analyze the financial data of the audited companies.</li>
-  </ol>
+ <ol><li>Use Python to do the Financial Indicator and Data Analysis.</li>
+     <li>Use <b>EY Helix Analyzer</b> to analyze the financial data of the audited companies.</li>
+ </ol>
 </ul>
 
 
