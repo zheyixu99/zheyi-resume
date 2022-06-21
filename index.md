@@ -81,12 +81,12 @@ layout: homepage
 
 
 ## Extracurricular Activities
-<h3>Kaggle Competition Candidate- U.S. Patent Phrase to Phrase Matching (2022.5-present)</h3>
+<h3>Kaggle Competition <b>Bronze Winner</b> - U.S. Patent Phrase to Phrase Matching (2022.5-present)</h3>
 <ul>
 <li>Help Identify Similar Phrases in U.S. Patents.</li>
 </ul>
 
-<h3>Kaggle Competition Candidate- JPX Tokyo Stock Exchange Prediction (2022.5-present)</h3>
+<h3>Kaggle Competition Candidate - JPX Tokyo Stock Exchange Prediction (2022.5-present)</h3>
 <ul>
 <li>Predict the future returns of the stocks.</li>
 </ul>
