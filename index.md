@@ -81,7 +81,7 @@ layout: homepage
 
 
 ## Extracurricular Activities
-<h3>Kaggle Competition <u>Bronze Winner (Top 6%)</u> - U.S. Patent Phrase to Phrase Matching (2022.4-2022.6)</h3>
+<h3>Kaggle Competition - <u>Bronze Winner (Top 6%)</u> - U.S. Patent Phrase to Phrase Matching (2022.4-2022.6)</h3>
 <ul>
 <li>Help Identify Similar Phrases in U.S. Patents.</li>
 </ul>
