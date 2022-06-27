@@ -8,6 +8,7 @@ layout: homepage
 <li><b>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></li>
 <li><b>CS Student @ UoPeople</b></li>
 <li><b>Student Ambassador of UoPeople (Featured on UoPeople Social Media in July, 2022)</b></li>
+<li><b>Amateur Photographer</b></li>
 </ul>
 
 <!---暂未更新
@@ -26,7 +27,7 @@ layout: homepage
 --->
 
 
-## Publications
+## Publications and Copyright
 
 <h3>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019 <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3V4Cc1PqKLWPw9oSL3UfNsK" target="_blank">[cnki.net]</a></h3>
 
@@ -150,4 +151,5 @@ layout: homepage
 - **Microsoft Office**: Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 - **Adobe**: Lightroom, Premium
 
-
+## Photography Awards
+- **Magic DoF 2022 - Acceptance** <a href="https://dof.photomagart.com/" target="_blank">[<u>Official Website</u>]</a>
