@@ -152,4 +152,4 @@ layout: homepage
 - **Adobe**: Lightroom, Premium
 
 ## Photography Awards
-- **Magic DoF 2022 - Acceptance** <a href="https://zheyi-resume.vercel.app/photocontest-1/" target="_blank"><img src="img/photocontest/Zheyi Xu (China) - Co Existence.jpg>[<u>Certificate of Acceptance</u>]</a> <a href="https://dof.photomagart.com/" target="_blank">[<u>Official Website</u>]</a>
+- **Magic DoF 2022 - Acceptance** <a href="https://zheyi-resume.vercel.app/photocontest-1/" target="_blank"><img src="img/photocontest/Zheyi Xu (China) - Co Existence.jpg">[<u>Certificate of Acceptance</u>]</a> <a href="https://dof.photomagart.com/" target="_blank">[<u>Official Website</u>]</a>
