@@ -154,4 +154,4 @@ layout: homepage
 ## Photography Awards
 - **Magic DoF 2022 - Acceptance** [[Certificate of Acceptance-1]](https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-CoExistence.jpg) [[Certificate of Acceptance-2]](https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-FishingintheAutumnMorning.jpg) <a href="https://dof.photomagart.com/">[Official Website]</a>
 
-<a href="https://zheyi-resume.vercel.app/photocontest1/"><img alt="[Certificate of Acceptance-1]" src="assets/img/photocontest/ZheyiXu(China)-CoExistence.jpg"></a>
+<a src="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-CoExistence.jpg"><img alt="[Certificate of Acceptance-1]" src="assets/img/photocontest/ZheyiXu(China)-CoExistence.jpg"></a>
