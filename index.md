@@ -152,6 +152,6 @@ layout: homepage
 - **Adobe**: Lightroom, Premium
 
 ## Photography Awards
-- **Magic DoF 2022 - Acceptance** [[Certificate of Acceptance-1]](https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-CoExistence.jpg) [[Certificate of Acceptance-2]](https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-FishingintheAutumnMorning.jpg) <a href="https://dof.photomagart.com/">[Official Website]</a>
+- **Magic DoF 2022 - Acceptance** <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-CoExistence.jpg" target="_blank">[Certificate of Acceptance-1]</a> <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-FishingintheAutumnMorning.jpg" target="_blank">[Certificate of Acceptance-2]</a> <a href="https://dof.photomagart.com/">[Official Website]</a>
 
-<a href="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-CoExistence.jpg" target="_blank">[Certificate of Acceptance-1]</a>
+
