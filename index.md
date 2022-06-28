@@ -83,14 +83,22 @@ layout: homepage
 
 
 ## Extracurricular Activities
-<h3>Kaggle Competition - <u>Bronze Winner</u> (Top 6%) - U.S. Patent Phrase to Phrase Matching (2022.5-2022.6)</h3>
+<h3>Stanford ICME Summer Workshop (2022.8)</h3>
 <ul>
-<li>Help Identify Similar Phrases in U.S. Patents.</li>
+<li>Introduction to Deep Learning</li>
+<li>Introduction to Machine Learning</li>
+<li>Intro to Mathematical Optimization</li>
+<li>Deep Learning for Natural Language Processing</li>
 </ul>
 
 <h3>Kaggle Competition Candidate - JPX Tokyo Stock Exchange Prediction (2022.5-2022.10)</h3>
 <ul>
 <li>Predict the future returns of the stocks.</li>
+</ul>
+
+<h3>Kaggle Competition - <u>Bronze Winner</u> (Top 6%) - U.S. Patent Phrase to Phrase Matching (2022.5-2022.6)</h3>
+<ul>
+<li>Help Identify Similar Phrases in U.S. Patents.</li>
 </ul>
 
 <h3>Global Competency Online Training Program - UNITAR New York (2021.8, Online)</h3>
