@@ -43,7 +43,7 @@ layout: homepage
 
 ## Educational Background
 <h3>Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)</h3>
-**Bachelor of Management (Accounting)** | GPA: 3.4/4.0
+**Bachelor of Management (Accounting)** | GPA: 3.3/4.0
 -	Courses: Financial Accounting, Financial Management, Micro & Macroeconomics, Econometrics, International Finance, Tax Law, Public Finance, Auditing, ERP Simulation Game, Calculus, Linear Algebra, Statistics, Big Data Processing Technology.
 - Honors and Awards:
   <ol><li>12 Finalists - PwC’s Career Plus Challenge (Shanghai Region, 2020.7)</li>
@@ -125,7 +125,6 @@ layout: homepage
 
 
 ## Services
-
 <h3>United Nations Online Volunteer - Jadir Taekwondo Association (AJTKD) (2022.5-present, Online)</h3>
 <ul>
 <li>Work at Advocacy and Fundraising Team.</li>
