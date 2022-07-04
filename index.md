@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 <ul>
-<li><b>Auditor and EY iLab Team Member @ Ernst & Young Shanghai</b></li>
+<li><b>Auditor and EY iLab (Digital Auditing) Team Member @ Ernst & Young Shanghai</b></li>
 <li><b>Professional Member - Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></li>
 <li><b>CS Student and Student Ambassador @ UoPeople (Featured on UoPeople Social Media in July, 2022)</b></li>
 <li><b>Amateur Photographer</b></li>
