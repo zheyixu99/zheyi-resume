@@ -30,6 +30,8 @@ layout: homepage
 
 <h3>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019 <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3V4Cc1PqKLWPw9oSL3UfNsK" target="_blank">[cnki.net]</a></h3>
 
+<h3>Financial Statement Intelligent Analysis System Based on Internet(互联网财务报表智能分析系统v1.0) - Software Copyright(计算机软件著作权) <a href="https://zheyi-resume.vercel.app/assets/img/copyright/ZheyiXuCopyright.jpg" target="_blank">[Certificate of Copyright]</a></h3>
+
 <!---模板格式很好看 保留下来了
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
