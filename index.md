@@ -161,7 +161,7 @@ layout: homepage
 
 
 ## Photography Awards
-- **Acceptance - Magic DoF 2022** <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-Fishermen.jpg" target="_blank">[Certificate of Acceptance]</a> <a href="https://photosardinia.com/international/" target="_blank">[Official Website]</a>
+- **Acceptance - Sardinia International Photo Contest 2022** <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-Fishermen.jpg" target="_blank">[Certificate of Acceptance]</a> <a href="https://photosardinia.com/international/" target="_blank">[Official Website]</a>
 - **Acceptance - 20th PSA China International Exhibition of Photography** <a href="https://salon.psachina.org/Grade/AnnouncementofResults.aspx?PictureCode=GroupCode0109100583" target="_blank">[Certificate of Acceptance]</a> <a href="https://salon.psachina.org/" target="_blank">[Official Website]</a>
 - **Acceptance - Magic DoF 2022** <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-CoExistence.jpg" target="_blank">[Certificate of Acceptance-1]</a> <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-FishingintheAutumnMorning.jpg" target="_blank">[Certificate of Acceptance-2]</a> <a href="https://dof.photomagart.com/" target="_blank">[Official Website]</a>
 
