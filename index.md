@@ -146,7 +146,7 @@ layout: homepage
 </ul> 
 
 ## Certificates
-
+- **Deep Learning Specialization.** 2022.<a href="" target="_blank">[<u>Coursera Certificate</u>]</a>
 - **Google IT Support Professional Certificates.** 2022. <a href="https://coursera.org/share/a32f2cf3910affeb610430b2926d7c03" target="_blank">[<u>Coursera Certificate</u>]</a>
 - **Google IT Automation with Python Professional Certificates.** 2022. <a href="https://coursera.org/share/f52a1a2ad573686ae82aa5c22d85b6bb" target="_blank">[<u>Coursera Certificate</u>]</a>
 - **IBM Data Science Professional Certificate.** 2022. <a href="https://coursera.org/share/d2a3c666e42c53821372f67029d70d88" target="_blank">[<u>Coursera Certificate</u>]</a>
