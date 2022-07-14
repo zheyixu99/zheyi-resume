@@ -92,7 +92,7 @@ layout: homepage
 <li>Deep Learning for Natural Language Processing</li>
 </ul>
 
-<h3>Kaggle Competition 2022<a href="https://www.kaggle.com/luciaxuzheyi">[My Kaggle Profile]</a></h3>
+<h3>Kaggle Competition 2022</h3><a href="https://www.kaggle.com/luciaxuzheyi" target="_blank">[My Kaggle Profile]</a>
 
 <h4>Kaggle Competition Candidate - American Express - Default Prediction (2022.7-present)</h4>
 <ul>
