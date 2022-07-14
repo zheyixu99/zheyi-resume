@@ -92,12 +92,17 @@ layout: homepage
 <li>Deep Learning for Natural Language Processing</li>
 </ul>
 
-<h3>Kaggle Competition Candidate - JPX Tokyo Stock Exchange Prediction (2022.5-2022.10)</h3>
+<h3>Kaggle Competition 2022</h3>
+<a href="https://www.kaggle.com/luciaxuzheyi">[My Kaggle Profile]</a>
+<h4>Kaggle Competition Candidate - American Express - Default Prediction (2022.7-present)</h43>
+<ul>
+<li>Predict if a customer will default in the future.</li>
+</ul>
+<h4>Kaggle Competition Candidate - JPX Tokyo Stock Exchange Prediction (2022.5-2022.10)</h4>
 <ul>
 <li>Predict the future returns of the stocks.</li>
 </ul>
-
-<h3>Kaggle Competition - <u>Bronze Winner</u> (Top 6%) - U.S. Patent Phrase to Phrase Matching (2022.5-2022.6)</h3>
+<h4>Kaggle Competition - <u>Bronze Medal</u> (Top 6%) - U.S. Patent Phrase to Phrase Matching (2022.5-2022.6)</h4>
 <ul>
 <li>Help Identify Similar Phrases in U.S. Patents.</li>
 </ul>
