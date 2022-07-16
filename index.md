@@ -26,12 +26,6 @@ layout: homepage
 --->
 
 
-## Publications and Copyright
-
-<h3>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019 <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3V4Cc1PqKLWPw9oSL3UfNsK" target="_blank">[cnki.net]</a></h3>
-
-<h3>Financial Statement Intelligent Analysis System Based on Internet(互联网财务报表智能分析系统v1.0) - Software Copyright(计算机软件著作权) <a href="https://zheyi-resume.vercel.app/assets/img/copyright/ZheyiXuCopyright.jpg" target="_blank">[Certificate of Copyright]</a></h3>
-
 <!---模板格式很好看 保留下来了
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -41,6 +35,7 @@ layout: homepage
   <br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 --->
+
 
 ## Educational Background
 <h3>Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)</h3>
@@ -66,6 +61,7 @@ layout: homepage
 - Student Ambassador of UoPeople.
 - UoPeople is an accredited online university. <a href="https://www.uopeople.edu" target="_blank">[<u>Official Website</u>]</a>
 
+
 ## Working Experience
 <h3>Ernst & Young Certified Public Accountants - Auditor (2022.8-present Shanghai, China)</h3>
 <ul>
@@ -81,6 +77,12 @@ layout: homepage
 <ul>
 <li>IPO Auditing & Annual Auditing</li>
 </ul>
+
+
+## Publications and Copyright
+<h3>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019 <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3V4Cc1PqKLWPw9oSL3UfNsK" target="_blank">[cnki.net]</a></h3>
+
+<h3>Financial Statement Intelligent Analysis System Based on Internet(互联网财务报表智能分析系统v1.0) - Software Copyright(计算机软件著作权) <a href="https://zheyi-resume.vercel.app/assets/img/copyright/ZheyiXuCopyright.jpg" target="_blank">[Certificate of Copyright]</a></h3>
 
 
 ## Extracurricular Activities
@@ -106,6 +108,16 @@ layout: homepage
 <ul>
 <li>Help Identify Similar Phrases in U.S. Patents.</li>
 </ul>
+
+
+<h3>U&AI Camp - AI for SDGs Youth Bootcamp (June-Dec, 2022)</h3>
+<a href="https://www.ai4sdgbootcamp.org/" target="_blank">[Official Website]</a>
+<a href="https://www.ai4sdgbootcamp.org/masterclass2022?cid=b415f834-b338-41dd-a253-87f30a00ab97&utm_campaign=c010d92c-08e8-47f4-8bed-0d1894403bbc&utm_medium=mail&utm_source=so" target="_blank">[Official Website - MasterClass 2022]</a>
+<ul>
+<li></li>
+<li></li>
+</ul>
+
 
 <h3>Global Competency Online Training Program - UNITAR New York (2021.8, Online)</h3>
 <ul>
