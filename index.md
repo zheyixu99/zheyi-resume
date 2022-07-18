@@ -178,6 +178,7 @@ layout: homepage
 
 
 ## Photography Awards
+- **Acceptance - SOUTHEAST ASIA PHOTO CIRCUIT 2022** <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/SouthEastAsia-LightFishAndShadow.jpg" target="_blank">[Certificate of Acceptance-1]</a> <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/SouthEastAsia-VirtualizationAndReality.jpg" target="_blank">[Certificate of Acceptance-2]</a> <a href="http://www.seaphotocircuit.com/" target="_blank">[Official Website]</a>
 - **Acceptance - 7th Pacific-Atlantic International Photographic Circuit 2022** <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/GreekArtisticPhotography--Zheyi Xu (China)-VitalityofTwilight.jpg" target="_blank">[Certificate of Acceptance]</a> <a href="https://www.pacificatlantic-photo.com/" target="_blank">[Official Website]</a>
 - **Acceptance - DHAKA FOTO FEST CIRCUIT** <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/Accept_F22_621_859.pdf/" target="_blank">[Certificate of Acceptance]</a> <a href="https://agilefoto.com/" target="_blank">[Official Website]</a>
 - **Acceptance - Sardinia International Photo Contest 2022** <a href="https://zheyi-resume.vercel.app/assets/img/photocontest/ZheyiXu(China)-Fishermen.jpg" target="_blank">[Certificate of Acceptance]</a> <a href="https://photosardinia.com/international/" target="_blank">[Official Website]</a>
