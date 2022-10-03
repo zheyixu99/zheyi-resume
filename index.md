@@ -87,6 +87,7 @@ layout: homepage
 
 ## Extracurricular Activities
 <h3>Stanford ICME Summer Workshop (2022.8)</h3>
+<a href="https://zheyi-resume.vercel.app/assets/img/ICMECertificate.pdf/" target="_blank">[Certificate of Attendance]</a>
 <ul>
 <li>Introduction to Deep Learning</li>
 <li>Introduction to Machine Learning</li>
@@ -107,15 +108,6 @@ layout: homepage
 <h4>Kaggle Competition - <u>Bronze Medal</u> (Top 6%) - U.S. Patent Phrase to Phrase Matching (2022.5-2022.6)</h4>
 <ul>
 <li>Help Identify Similar Phrases in U.S. Patents.</li>
-</ul>
-
-
-<h3>U&AI Camp - AI for SDGs Youth Bootcamp (June-Dec, 2022)</h3>
-<a href="https://www.ai4sdgbootcamp.org/" target="_blank">[Official Website]</a>
-<a href="https://www.ai4sdgbootcamp.org/masterclass2022?cid=b415f834-b338-41dd-a253-87f30a00ab97&utm_campaign=c010d92c-08e8-47f4-8bed-0d1894403bbc&utm_medium=mail&utm_source=so" target="_blank">[Official Website - MasterClass 2022]</a>
-<ul>
-<li></li>
-<li></li>
 </ul>
 
 
