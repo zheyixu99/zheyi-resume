@@ -54,8 +54,8 @@ layout: homepage
 -	Courses: Linear Algebra, Macroeconomics, Introduction to Films, Introduction to Digital Media.
 -	Part-time work @ MSU Student Culinary Service.
 
-<h3>University of the People (UoPeople) (2020.4-present)</h3>
-**Bachelor of Computer Science** | GPA: 3.6/4.0
+<h3>University of the People (UoPeople) (2020.4-2022.3)</h3>
+**Associate of Computer Science** | GPA: 3.5/4.0
 - Courses: Programming Fundamentals (Python), Statistics (R language), Programming I (JavaSE), Computer Systems, Databases, Web Programming, Calculus, Statistics, Operating Systems, Data Structure, Data Mining and Machine Learning.
 - Honor's List (2021 Term 5, 2022 Term 1, 2022 Term 2)
 - Student Ambassador of UoPeople.
