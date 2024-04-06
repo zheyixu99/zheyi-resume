@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 <ul>
-<li><b>Auditor and EY iLab (Digital Auditing) Team Member @ Ernst & Young Shanghai</b></li>
-<li><b>Professional Member - Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></li>
-<li><b>CS Student and Student Ambassador @ UoPeople (Featured on UoPeople Social Media in July, 2022)</b></li>
-<li><b>Amateur Photographer</b></li>
+<li><b>Financial Analyst @ Haemonetics Shanghai Office</b></li>
+<li><b>CS Student @ UoPeople (Seeking for Bachelor of Computer Science)</b></li>
+<li><b>Amateur Marathon Runner & Cross Country Runner</b></li>
+<li><b>Keep practicing Musical Instruments (</b></li>
 </ul>
 
 <!---暂未更新
@@ -63,7 +63,23 @@ layout: homepage
 
 
 ## Working Experience
-<h3>Ernst & Young Certified Public Accountants - Auditor (2022.8-present Shanghai, China)</h3>
+<h3>Haemonetics Corporation - Financial Analyst, Financial Planning & Analysis (2024.3-present Shanghai, China)</h3>
+<ul>
+<li>Collect accrual information from R&D team with professional judgement.</li>
+<li>Book Journal Entries during monthly close including both Reclass and Accrual entries.</li>
+<li>Distribute Monthly R&D Expense Reporting, perform variance analysis on Actual results versus Forecast, AOP as needed.</li>
+<li>Provide spend by vendor reporting including historical trending as needed.</li>
+<li>Analysis and coordinate with AP, Procurement and R&D team to resolve payment issues and drive efficiency</li>
+<li>Review R&D purchase orders to ensure all spends get correctly coded to the right cost string.</li>
+<li>Streamline, standardize, and automate meaningful financial reporting across functions.</li>
+<li>Act as system expert for accounting, reporting and planning tools (ORACLE Cloud, EPBCS).</li>
+<li>Complete monthly Balance Sheet Reconciliations and quarterly Balance Sheet review.</li>
+<li>Build and load financial Forecasts, Annual Operating Plan, and Strategic Plan for R&D Function</li>
+<li>Support ad hoc projects or business requests.</li>
+</ul>
+
+
+<h3>Ernst & Young Certified Public Accountants - Auditor (2022.8-2024.2 Shanghai, China)</h3>
 <ul>
 <li>IPO Auditing & Annual Auditing.</li>
 <li>EY iLab Team Member. EY iLab Team is responsible for driving the progress of Digital Audit. Here I learn the following skills:</li>
